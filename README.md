@@ -6,6 +6,7 @@
 #### docker run -d -p 3000:80 indiedanish/todoapp-client
 
 ### *You can also run both via docker-compose file in the project*
+#### docker-compose up
 
  ## Features: 
 #### > SignUp/Login
