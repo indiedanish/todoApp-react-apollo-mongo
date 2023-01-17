@@ -5,7 +5,7 @@
 ### [Client Docker Image](https://hub.docker.com/r/indiedanish/todoapp-client)
 #### docker run -d -p 3000:80 indiedanish/todoapp-client
 
-### *You can also run via docker-compose file in the project*
+### *You can also run both via docker-compose file in the project*
 
  ## Features: 
 #### > SignUp/Login
