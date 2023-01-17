@@ -12,6 +12,14 @@
 [Main](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/Main-SS.png)
 ![alt text](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/Main-SS.png)
 
+ ## How to run: 
+#### > Using docker image given above 
+####   OR
+#### > Clone the repo 
+#### > Open Server folder
+#### > Run cmd "npm start"
+#### > Open Client folder
+#### > Run cmd "npm start"
 
 ## 🔑 LICENSE
 - This project is licensed under the MIT License - see the [LICENSE](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/License) file for details
