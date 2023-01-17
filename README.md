@@ -1,4 +1,11 @@
-# Todo App using React, Node, Apollo, Mongo: 👉[Docker Image](https://indiedanish.github.io/3D-Boxes-Reactjs/)
+# Todo App using React, Node, Apollo, Mongo: 
+## Docker Images 👇
+### [Server Docker Image](https://hub.docker.com/r/indiedanish/todoapp-server) 
+#### docker run -d -p 4000:4000 indiedanish/todoapp-server
+### [Client Docker Image](https://hub.docker.com/r/indiedanish/todoapp-client)
+#### docker run -d -p 3000:80 indiedanish/todoapp-client
+
+### *You can also run via docker-compose file in the project*
 
  ## Features: 
 #### > SignUp/Login
@@ -6,15 +13,13 @@
 #### > Mark any task as completed
 #### > Delete tasks
 
-[Login](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/Login-SS.png)
-![alt text](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/Login-SS.png)
+[Login](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/Screenshots/Login-SS.png)
+![alt text](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/Screenshots/Login-SS.png)
 
-[Main](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/Main-SS.png)
-![alt text](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/Main-SS.png)
+[Main](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/Screenshots/Main-SS.png)
+![alt text](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/Screenshots/Main-SS.png)
 
- ## How to run: 
-#### > Using docker image given above 
-####   OR
+ ## How to run code: 
 #### > Clone the repo 
 #### > Open Server folder
 #### > Run cmd "npm start"
