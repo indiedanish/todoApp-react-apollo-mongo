@@ -14,7 +14,7 @@
 
 
 ## 🔑 LICENSE
-- This project is licensed under the MIT License - see the [LICENSE](https://github.com/indiedanish/Discount-App/blob/main/LICENSE) file for details
+- This project is licensed under the MIT License - see the [LICENSE](https://github.com/indiedanish/todoApp-react-apollo-mongo/blob/master/License) file for details
 
 ## 🧑 Author
 
