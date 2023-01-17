@@ -1,0 +1,13 @@
+#node block
+
+FROM node:alpine3.16 as nodework
+WORKDIR /app
+COPY . /app
+RUN npm install
+
+
+CMD node server.js
+
+
+
+

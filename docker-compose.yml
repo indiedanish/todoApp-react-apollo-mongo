@@ -1,0 +1,15 @@
+version: '4'
+services:
+
+  server:
+    restart: on-failure
+    build: ./server
+    ports:
+      - '4000:4000'
+  
+  client:
+  
+    restart: on-failure
+    build: ./client
+    ports:
+      - '3000:80'
